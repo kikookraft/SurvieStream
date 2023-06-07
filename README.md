@@ -1,4 +1,5 @@
 # MODS
+Version: Forge 43.2.14 - 1.19.2  
 Les mods peuvent avoir deux tags: **co* et **so* qui correspondent respectivement à **client only** et **server only**.  
 Si aucune specification n'est donnée, le mod sera a la fois sur le client et le serveur.
   
@@ -16,14 +17,14 @@ Addons Create:
 10. [**Crafts and additions**](https://modrinth.com/mod/createaddition) : Ajoute des crafts et machines custom compatibles avec les autres mods.  
 
 ## Qualité de vie
-11. [**Appleskin**](https://modrinth.com/mod/appleskin) : Affiche la faim et la saturation.
+11. × [**Appleskin**](https://modrinth.com/mod/appleskin) : Affiche la faim et la saturation.
 12. [**Dynamic Surrounding**](https://www.curseforge.com/minecraft/mc-mods/dynamic-surrounding-resurrected) : Ajoute des sons d'ambiance.
 13. [**Falling Leaves**](https://www.curseforge.com/minecraft/mc-mods/falling-leaves-forge) : Ajoute des feuiiles qui tombent.
 14. [**GraveStone Mod**](https://www.curseforge.com/minecraft/mc-mods/gravestone-mod) : Ajoute des tombes.
 15. [**Harvest with ease**](https://www.curseforge.com/minecraft/mc-mods/harvest-with-ease) : Permet de récolter les plantes en un clic.
 16. [**Sounds Physics**](https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered) : Ajoute des effets de sons.
 50. [**The One Probe**](https://modrinth.com/mod/the-one-probe) : Ajoute des informations de blocks sur le HUD.
-53. [**Litematica**](https://www.curseforge.com/minecraft/mc-mods/litematica-forge) : Permet d'afficher des schémas de constructions.
+53. × [**Litematica**](https://www.curseforge.com/minecraft/mc-mods/litematica-forge) : Permet d'afficher des schémas de constructions.
 54. [**FarSight**](https://www.curseforge.com/minecraft/mc-mods/farsight) : Permet de voir les chunks chargés.
 
 ## Génération
@@ -97,4 +98,4 @@ Les mods de cette catégorie ne seront pas discutés, ils sont nécessaires pour
 - [Cloth Config](https://modrinth.com/mod/cloth-config)
 - [Citadel](https://www.curseforge.com/minecraft/mc-mods/citadel)
 - [BALM](https://www.curseforge.com/minecraft/mc-mods/balm)
-- [Malilib](https://www.curseforge.com/minecraft/mc-mods/malilib-forge)
+- × [Malilib](https://www.curseforge.com/minecraft/mc-mods/malilib-forge)
