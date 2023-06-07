@@ -24,6 +24,7 @@ Addons Create:
 16. [**Sounds Physics**](https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered) : Ajoute des effets de sons.
 50. [**The One Probe**](https://modrinth.com/mod/the-one-probe) : Ajoute des informations de blocks sur le HUD.
 53. [**Litematica**](https://www.curseforge.com/minecraft/mc-mods/litematica-forge) : Permet d'afficher des schémas de constructions.
+54. [**FarSight**](https://www.curseforge.com/minecraft/mc-mods/farsight) : Permet de voir les chunks chargés.
 
 ## Génération
 17. [**The lost castle**](https://www.curseforge.com/minecraft/mc-mods/the-lost-castle) : Ajoute un gros château.
