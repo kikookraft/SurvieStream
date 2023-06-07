@@ -81,11 +81,11 @@ Les mods de cette catégorie ne seront pas discutés, ils sont nécessaires pour
 ## Tech Avancée
 47. [ComputerCraft](https://modrinth.com/mod/cc-tweaked) : Ajoute des ordinateurs et des robots programmables en LUA. (svp votez ça va être fun)
 48. [CC: create](https://modrinth.com/mod/cccbridge) : Intégration entre create et computercraft.
-52. [**Pretty-Pipes**](https://modrinth.com/mod/pretty-pipes) : Ajoute des tuyaux pour transporter les items, les fluides et l'énergie.
+52. [Pretty-Pipes](https://modrinth.com/mod/pretty-pipes) : Ajoute des tuyaux pour transporter les items, les fluides et l'énergie.
 
 ## Optimisation
-- [**Rubidium**](https://www.curseforge.com/minecraft/mc-mods/rubidium) : Optimisation du jeu.
-- [**Oculus**](https://www.curseforge.com/minecraft/mc-mods/oculus) : Optimisation + compatibilité avec les shaders.
+- [Rubidium](https://www.curseforge.com/minecraft/mc-mods/rubidium) : Optimisation du jeu.
+- [Oculus](https://www.curseforge.com/minecraft/mc-mods/oculus) : Optimisation + compatibilité avec les shaders.
 
 ## Librairies
 - [TerraBlender](https://modrinth.com/mod/biomesyougo)
