@@ -7,13 +7,13 @@ Si aucune specification n'est donnée, le mod sera a la fois sur le client et le
 2. [**Security craft**](https://www.curseforge.com/minecraft/mc-mods/security-craft) : Ajoute des block de sécuritée. 
 3. [**Twilight forest**](https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest) : Ajoute une nouvelle dimension.
 4. [**Create**](https://modrinth.com/mod/create) : Ajoute des machines.  
-- Addons Create:    
-  5. [**Create encased**](https://modrinth.com/mod/create-encased) : Ajoute des blocs pour créer les machines  
-  6. [**Extended Flywheel**](https://modrinth.com/mod/extended-cogwheels) : Ajoute des roues dentées de différentes couleurs.  
-  7. [**Steam & rails**](https://modrinth.com/mod/create-steam-n-rails) : Ajoute des rails pour create.  
-  8. [**Create flywheel**](https://modrinth.com/mod/extended-flywheels) : Ajoute des nouvelles flywheels.  
-  9. [**Crystal clear**](https://modrinth.com/mod/create-crystal-clear) : Ajoute des blocs de verre custom create.  
-  10. [**Crafts and additions**](https://modrinth.com/mod/createaddition) : Ajoute des crafts et machines custom compatibles avec les autres mods.  
+Addons Create:    
+5. [**Create encased**](https://modrinth.com/mod/create-encased) : Ajoute des blocs pour créer les machines  
+6. [**Extended Flywheel**](https://modrinth.com/mod/extended-cogwheels) : Ajoute des roues dentées de différentes couleurs.  
+7. [**Steam & rails**](https://modrinth.com/mod/create-steam-n-rails) : Ajoute des rails pour create.  
+8. [**Create flywheel**](https://modrinth.com/mod/extended-flywheels) : Ajoute des nouvelles flywheels.  
+9. [**Crystal clear**](https://modrinth.com/mod/create-crystal-clear) : Ajoute des blocs de verre custom create.  
+10. [**Crafts and additions**](https://modrinth.com/mod/createaddition) : Ajoute des crafts et machines custom compatibles avec les autres mods.  
 
 ## Qualité de vie
 11. [**Appleskin**](https://modrinth.com/mod/appleskin) : Affiche la faim et la saturation.
@@ -23,6 +23,7 @@ Si aucune specification n'est donnée, le mod sera a la fois sur le client et le
 15. [**Harvest with ease**](https://www.curseforge.com/minecraft/mc-mods/harvest-with-ease) : Permet de récolter les plantes en un clic.
 16. [**Sounds Physics**](https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered) : Ajoute des effets de sons.
 50. [**The One Probe**](https://modrinth.com/mod/the-one-probe) : Ajoute des informations de blocks sur le HUD.
+53. [**Litematica**](https://www.curseforge.com/minecraft/mc-mods/litematica-forge) : Permet d'afficher des schémas de constructions.
 
 ## Génération
 17. [**The lost castle**](https://www.curseforge.com/minecraft/mc-mods/the-lost-castle) : Ajoute un gros château.
@@ -54,16 +55,16 @@ Si aucune specification n'est donnée, le mod sera a la fois sur le client et le
 31. [**Chimes**](https://www.curseforge.com/minecraft/mc-mods/chimes) : Ajoute des cloches.
 32. [**Chisel and bits**](https://www.curseforge.com/minecraft/mc-mods/chisels-bits) : Ajoute des outils pour sculpter les blocs.
 33. [**Immersive Painting**](https://modrinth.com/mod/immersive-paintings) : Permet de créer des tableaux avec des images personnalisées.
-- Les Macaw's:  
-    34. [**Fence and wall**](https://www.curseforge.com/minecraft/mc-mods/macaws-fences-and-walls) : Ajoute des murs et des barrières.  
-    35. [**Doors**](https://www.curseforge.com/minecraft/mc-mods/macaws-doors) : Ajoute des portes.  
-    36. [**Roofs**](https://www.curseforge.com/minecraft/mc-mods/macaws-roofs) : Ajoute des toits.  
-    37. [**Windows**](https://www.curseforge.com/minecraft/mc-mods/macaws-windows) : Ajoute des fenêtres.  
-    38. [**Trapdoors**](https://www.curseforge.com/minecraft/mc-mods/macaws-trapdoors) : Ajoute des trappes.   
-    39. [**Light and lamps**](https://www.curseforge.com/minecraft/mc-mods/macaws-lights-and-lamps) : Ajoute des lampes.  
-    40. [**Bridge**](https://www.curseforge.com/minecraft/mc-mods/macaws-bridges) : Ajoute des ponts.  
-    41. [**Path and pavings**](https://www.curseforge.com/minecraft/mc-mods/macaws-paths-and-pavings) : Ajoute des chemins.  
-    42. [**Furniture**](https://www.curseforge.com/minecraft/mc-mods/macaws-furniture) : Ajoute des meubles.
+Les Macaw's:  
+34. [**Fence and wall**](https://www.curseforge.com/minecraft/mc-mods/macaws-fences-and-walls) : Ajoute des murs et des barrières.  
+35. [**Doors**](https://www.curseforge.com/minecraft/mc-mods/macaws-doors) : Ajoute des portes.  
+36. [**Roofs**](https://www.curseforge.com/minecraft/mc-mods/macaws-roofs) : Ajoute des toits.  
+37. [**Windows**](https://www.curseforge.com/minecraft/mc-mods/macaws-windows) : Ajoute des fenêtres.  
+38. [**Trapdoors**](https://www.curseforge.com/minecraft/mc-mods/macaws-trapdoors) : Ajoute des trappes.   
+39. [**Light and lamps**](https://www.curseforge.com/minecraft/mc-mods/macaws-lights-and-lamps) : Ajoute des lampes.  
+40. [**Bridge**](https://www.curseforge.com/minecraft/mc-mods/macaws-bridges) : Ajoute des ponts.  
+41. [**Path and pavings**](https://www.curseforge.com/minecraft/mc-mods/macaws-paths-and-pavings) : Ajoute des chemins.  
+42. [**Furniture**](https://www.curseforge.com/minecraft/mc-mods/macaws-furniture) : Ajoute des meubles.
 43. [**Mcrayfish Furniture mod**](https://www.curseforge.com/minecraft/mc-mods/mrcrayfish-furniture-mod) : Ajoute des meubles.
 51. [**TorchMaster**](https://modrinth.com/mod/torchmaster) : Ajoute une méga torche qui éclaire une zone de 64 blocs de rayon.
 
@@ -96,3 +97,4 @@ Les mods de cette catégorie ne seront pas discutés, ils sont nécessaires pour
 - [Cloth Config](https://modrinth.com/mod/cloth-config)
 - [Citadel](https://www.curseforge.com/minecraft/mc-mods/citadel)
 - [BALM](https://www.curseforge.com/minecraft/mc-mods/balm)
+- [Malilib](https://www.curseforge.com/minecraft/mc-mods/malilib-forge)
