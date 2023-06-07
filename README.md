@@ -69,6 +69,11 @@ Les Macaw's:
 51. [**TorchMaster**](https://modrinth.com/mod/torchmaster) : Ajoute une méga torche qui éclaire une zone de 64 blocs de rayon.
 
 
+## Tech Avancée
+47. [ComputerCraft](https://modrinth.com/mod/cc-tweaked) : Ajoute des ordinateurs et des robots programmables en LUA. (svp votez ça va être fun)
+48. [CC: create](https://modrinth.com/mod/cccbridge) : Intégration entre create et computercraft.
+52. [Pretty-Pipes](https://modrinth.com/mod/pretty-pipes) : Ajoute des tuyaux pour transporter les items, les fluides et l'énergie.
+
 ## Necessaires
 Les mods de cette catégorie ne seront pas discutés, ils sont nécessaires pour le bon fonctionnement du modpack.
 - [**Offline Skins**](https://www.curseforge.com/minecraft/mc-mods/offlineskins) **co* : Permet d'avoir des skins des comptes premium.
@@ -76,12 +81,6 @@ Les mods de cette catégorie ne seront pas discutés, ils sont nécessaires pour
 - [**Just enough Item**](https://www.curseforge.com/minecraft/mc-mods/jei) : Affiche les recettes.
 - [**Neat**](https://www.curseforge.com/minecraft/mc-mods/neat) : Affiche la vie des entitées.
 - [**Simple voice chat**](https://modrinth.com/plugin/simple-voice-chat) : Permet de parler avec les autres joueurs ingame.
-
-
-## Tech Avancée
-47. [ComputerCraft](https://modrinth.com/mod/cc-tweaked) : Ajoute des ordinateurs et des robots programmables en LUA. (svp votez ça va être fun)
-48. [CC: create](https://modrinth.com/mod/cccbridge) : Intégration entre create et computercraft.
-52. [Pretty-Pipes](https://modrinth.com/mod/pretty-pipes) : Ajoute des tuyaux pour transporter les items, les fluides et l'énergie.
 
 ## Optimisation
 - [Rubidium](https://www.curseforge.com/minecraft/mc-mods/rubidium) : Optimisation du jeu.
