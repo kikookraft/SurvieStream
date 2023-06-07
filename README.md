@@ -38,8 +38,6 @@ Si aucune specification n'est donnée, le mod sera a la fois sur le client et le
 22. [**SignPost**](https://www.curseforge.com/minecraft/mc-mods/signpost) : Nouvelles pancartes.
 23. [**Small Ship**](https://www.curseforge.com/minecraft/mc-mods/small-ships) : Ajoute des mini bateaux. 
 24. [**Open Block Elevator**](https://www.curseforge.com/minecraft/mc-mods/openblocks-elevator) : Ajoute des ascenseurs facile à utiliser.
-44. [**AudioPlayer**](https://modrinth.com/mod/audioplayer) : Permet de jouer des musiques custom en jeu.
-45. [**VoiceChat Integration**](https://modrinth.com/mod/voice-chat-interaction) : Permet d'interagir avec les sculks via la voix.
 49. [**No enchant Cap**](https://modrinth.com/mod/no-enchant-cap) : Supprime la limite de niveau d'enchantement (le 'too expensive' de l'enclume).
 
 ## Stockage / Rangement
@@ -82,6 +80,7 @@ Les mods de cette catégorie ne seront pas discutés, ils sont nécessaires pour
 ## Tech Avancée
 47. [ComputerCraft](https://modrinth.com/mod/cc-tweaked) : Ajoute des ordinateurs et des robots programmables en LUA. (svp votez ça va être fun)
 48. [CC: create](https://modrinth.com/mod/cccbridge) : Intégration entre create et computercraft.
+52. [**Pretty-Pipes**](https://modrinth.com/mod/pretty-pipes) : Ajoute des tuyaux pour transporter les items, les fluides et l'énergie.
 
 ## Optimisation
 - [**Rubidium**](https://www.curseforge.com/minecraft/mc-mods/rubidium) : Optimisation du jeu.
@@ -91,3 +90,9 @@ Les mods de cette catégorie ne seront pas discutés, ils sont nécessaires pour
 - [TerraBlender](https://modrinth.com/mod/biomesyougo)
 - [GeckoLib](https://modrinth.com/mod/geckolib)
 - [CorgiLib](https://modrinth.com/mod/corgilib)
+- [Curios](https://www.curseforge.com/minecraft/mc-mods/curios)
+- [Patchouli](https://modrinth.com/mod/patchouli)
+- [Flywheel](https://modrinth.com/mod/flywheel)
+- [Cloth Config](https://modrinth.com/mod/cloth-config)
+- [Citadel](https://www.curseforge.com/minecraft/mc-mods/citadel)
+- [BALM](https://www.curseforge.com/minecraft/mc-mods/balm)
