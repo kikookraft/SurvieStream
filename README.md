@@ -22,9 +22,11 @@ Si aucune specification n'est donnée, le mod sera a la fois sur le client et le
 14. [**GraveStone Mod**](https://www.curseforge.com/minecraft/mc-mods/gravestone-mod) : Ajoute des tombes.
 15. [**Harvest with ease**](https://www.curseforge.com/minecraft/mc-mods/harvest-with-ease) : Permet de récolter les plantes en un clic.
 16. [**Sounds Physics**](https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered) : Ajoute des effets de sons.
+50. [**The One Probe**](https://modrinth.com/mod/the-one-probe) : Ajoute des informations de blocks sur le HUD.
 
 ## Génération
 17. [**The lost castle**](https://www.curseforge.com/minecraft/mc-mods/the-lost-castle) : Ajoute un gros château.
+46. [**Oh the biomes you'll go**](https://modrinth.com/mod/biomesyougo) : Ajoute des biomes custom.
 
 ## Mobs
 18. [**Alex's Mobs**](https://www.curseforge.com/minecraft/mc-mods/alexs-mobs) : Ajoute des mobs pour chaque biomes.
@@ -36,6 +38,9 @@ Si aucune specification n'est donnée, le mod sera a la fois sur le client et le
 22. [**SignPost**](https://www.curseforge.com/minecraft/mc-mods/signpost) : Nouvelles pancartes.
 23. [**Small Ship**](https://www.curseforge.com/minecraft/mc-mods/small-ships) : Ajoute des mini bateaux. 
 24. [**Open Block Elevator**](https://www.curseforge.com/minecraft/mc-mods/openblocks-elevator) : Ajoute des ascenseurs facile à utiliser.
+44. [**AudioPlayer**](https://modrinth.com/mod/audioplayer) : Permet de jouer des musiques custom en jeu.
+45. [**VoiceChat Integration**](https://modrinth.com/mod/voice-chat-interaction) : Permet d'interagir avec les sculks via la voix.
+49. [**No enchant Cap**](https://modrinth.com/mod/no-enchant-cap) : Supprime la limite de niveau d'enchantement (le 'too expensive' de l'enclume).
 
 ## Stockage / Rangement
 25. [**Iron Chest**](https://www.curseforge.com/minecraft/mc-mods/iron-chests) : Ajoute des coffres avec plus de place.  
@@ -62,6 +67,7 @@ Si aucune specification n'est donnée, le mod sera a la fois sur le client et le
     41. [**Path and pavings**](https://www.curseforge.com/minecraft/mc-mods/macaws-paths-and-pavings) : Ajoute des chemins.  
     42. [**Furniture**](https://www.curseforge.com/minecraft/mc-mods/macaws-furniture) : Ajoute des meubles.
 43. [**Mcrayfish Furniture mod**](https://www.curseforge.com/minecraft/mc-mods/mrcrayfish-furniture-mod) : Ajoute des meubles.
+51. [**TorchMaster**](https://modrinth.com/mod/torchmaster) : Ajoute une méga torche qui éclaire une zone de 64 blocs de rayon.
 
 
 ## Necessaires
@@ -70,7 +76,18 @@ Les mods de cette catégorie ne seront pas discutés, ils sont nécessaires pour
 - [**Starlight**](https://www.curseforge.com/minecraft/mc-mods/starlight-forge) **so* : Permet de faire fonctionner les mods qui utilisent la lumière.
 - [**Just enough Item**](https://www.curseforge.com/minecraft/mc-mods/jei) : Affiche les recettes.
 - [**Neat**](https://www.curseforge.com/minecraft/mc-mods/neat) : Affiche la vie des entitées.
+- [**Simple voice chat**](https://modrinth.com/plugin/simple-voice-chat) : Permet de parler avec les autres joueurs ingame.
+
+
+## Tech Avancée
+47. [ComputerCraft](https://modrinth.com/mod/cc-tweaked) : Ajoute des ordinateurs et des robots programmables en LUA. (svp votez ça va être fun)
+48. [CC: create](https://modrinth.com/mod/cccbridge) : Intégration entre create et computercraft.
 
 ## Optimisation
 - [**Rubidium**](https://www.curseforge.com/minecraft/mc-mods/rubidium) : Optimisation du jeu.
 - [**Oculus**](https://www.curseforge.com/minecraft/mc-mods/oculus) : Optimisation + compatibilité avec les shaders.
+
+## Librairies
+- [TerraBlender](https://modrinth.com/mod/biomesyougo)
+- [GeckoLib](https://modrinth.com/mod/geckolib)
+- [CorgiLib](https://modrinth.com/mod/corgilib)
