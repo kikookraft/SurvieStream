@@ -52,7 +52,7 @@ Addons Create:
 30. [**Additionnal Light**](https://www.curseforge.com/minecraft/mc-mods/additional-lights) : Ajoute des lampes et des lanternes dans le style médiéval, moderne et +.
 31. [**Chimes**](https://www.curseforge.com/minecraft/mc-mods/chimes) : Ajoute des cloches.
 32. [**Chisel and bits**](https://www.curseforge.com/minecraft/mc-mods/chisels-bits) : Ajoute des outils pour sculpter les blocs.
-33. [**Immersive Painting**](https://modrinth.com/mod/immersive-paintings) : Permet de créer des tableaux avec des images personnalisées.
+33. [**Immersive Painting**](https://modrinth.com/mod/immersive-paintings) : Permet de créer des tableaux avec des images personnalisées.  
 Les Macaw's:  
 34. [**Fence and wall**](https://www.curseforge.com/minecraft/mc-mods/macaws-fences-and-walls) : Ajoute des murs et des barrières.  
 35. [**Doors**](https://www.curseforge.com/minecraft/mc-mods/macaws-doors) : Ajoute des portes.  
