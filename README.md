@@ -13,8 +13,7 @@ Addons Create:
 6. [**Extended Flywheel**](https://modrinth.com/mod/extended-cogwheels) : Ajoute des roues dentées de différentes couleurs.  
 7. [**Steam & rails**](https://modrinth.com/mod/create-steam-n-rails) : Ajoute des rails pour create.  
 8. [**Create flywheel**](https://modrinth.com/mod/extended-flywheels) : Ajoute des nouvelles flywheels.  
-9. [**Crystal clear**](https://modrinth.com/mod/create-crystal-clear) : Ajoute des blocs de verre custom create.  
-10. [**Crafts and additions**](https://modrinth.com/mod/createaddition) : Ajoute des crafts et machines custom compatibles avec les autres mods.  
+9. [**Crystal clear**](https://modrinth.com/mod/create-crystal-clear) : Ajoute des blocs de verre custom create.
 
 ## Qualité de vie
 11. × [**Appleskin**](https://modrinth.com/mod/appleskin) : Affiche la faim et la saturation.
