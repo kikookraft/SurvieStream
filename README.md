@@ -24,7 +24,7 @@ Addons Create:
 15. [**Harvest with ease**](https://www.curseforge.com/minecraft/mc-mods/harvest-with-ease) : Permet de récolter les plantes en un clic.
 16. [**Sounds Physics**](https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered) : Ajoute des effets de sons.
 50. [**The One Probe**](https://modrinth.com/mod/the-one-probe) : Ajoute des informations de blocks sur le HUD.
-53. × [**Litematica**](https://www.curseforge.com/minecraft/mc-mods/litematica-forge) : Permet d'afficher des schémas de constructions.
+53. [**Litematica** version Forge](https://github.com/ThinkingStudios/Litematica-Forge) : Permet d'afficher des schémas de constructions.
 54. [**FarSight**](https://www.curseforge.com/minecraft/mc-mods/farsight) : Permet de voir les chunks chargés.
 
 ## Génération
@@ -97,7 +97,7 @@ Les mods de cette catégorie ne seront pas discutés, ils sont nécessaires pour
 - [Cloth Config](https://modrinth.com/mod/cloth-config)
 - [Citadel](https://www.curseforge.com/minecraft/mc-mods/citadel)
 - [BALM](https://www.curseforge.com/minecraft/mc-mods/balm)
-- × [Malilib](https://www.curseforge.com/minecraft/mc-mods/malilib-forge)
+- [Malilib](https://github.com/ThinkingStudios/MaLiLib-Forge)
 - [Sophisticated Core](https://www.curseforge.com/minecraft/mc-mods/sophisticated-core)
 - [supermartijn642corelib](https://www.curseforge.com/minecraft/mc-mods/supermartijn642s-core-lib)
 - [supermartijn642configlib](https://www.curseforge.com/minecraft/mc-mods/supermartijn642s-config-lib)
