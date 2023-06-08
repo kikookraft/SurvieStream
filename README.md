@@ -15,7 +15,6 @@ Addons Create:
 8. [**Create flywheel**](https://modrinth.com/mod/extended-flywheels) : Ajoute des nouvelles flywheels.  
 
 ## Qualité de vie
-11. × [**Appleskin**](https://modrinth.com/mod/appleskin) : Affiche la faim et la saturation.
 12. [**Dynamic Surrounding**](https://www.curseforge.com/minecraft/mc-mods/dynamic-surrounding-resurrected) : Ajoute des sons d'ambiance.
 13. [**Falling Leaves**](https://www.curseforge.com/minecraft/mc-mods/falling-leaves-forge) : Ajoute des feuiiles qui tombent.
 14. [**GraveStone Mod**](https://www.curseforge.com/minecraft/mc-mods/gravestone-mod) : Ajoute des tombes.
