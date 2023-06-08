@@ -9,7 +9,7 @@ Si aucune specification n'est donnée, le mod sera a la fois sur le client et le
 3. [**Twilight forest**](https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest) : Ajoute une nouvelle dimension.
 4. [**Create**](https://modrinth.com/mod/create) : Ajoute des machines.  
 Addons Create:    
-5. [**Create encased**](https://modrinth.com/mod/create-encased) : Ajoute des blocs pour créer les machines  
+5. × [**Create encased**](https://modrinth.com/mod/create-encased) : Ajoute des blocs pour créer les machines  
 6. [**Extended Flywheel**](https://modrinth.com/mod/extended-cogwheels) : Ajoute des roues dentées de différentes couleurs.  
 7. [**Steam & rails**](https://modrinth.com/mod/create-steam-n-rails) : Ajoute des rails pour create.  
 8. [**Create flywheel**](https://modrinth.com/mod/extended-flywheels) : Ajoute des nouvelles flywheels.  
