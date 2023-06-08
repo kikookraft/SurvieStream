@@ -41,7 +41,6 @@ Addons Create:
 22. [**SignPost**](https://www.curseforge.com/minecraft/mc-mods/signpost) : Nouvelles pancartes.
 23. [**Small Ship**](https://www.curseforge.com/minecraft/mc-mods/small-ships) : Ajoute des mini bateaux. 
 24. [**Open Block Elevator**](https://www.curseforge.com/minecraft/mc-mods/openblocks-elevator) : Ajoute des ascenseurs facile à utiliser.
-49. [**No enchant Cap**](https://modrinth.com/mod/no-enchant-cap) : Supprime la limite de niveau d'enchantement (le 'too expensive' de l'enclume).
 
 ## Stockage / Rangement
 25. [**Iron Chest**](https://www.curseforge.com/minecraft/mc-mods/iron-chests) : Ajoute des coffres avec plus de place.  
@@ -99,3 +98,6 @@ Les mods de cette catégorie ne seront pas discutés, ils sont nécessaires pour
 - [Citadel](https://www.curseforge.com/minecraft/mc-mods/citadel)
 - [BALM](https://www.curseforge.com/minecraft/mc-mods/balm)
 - × [Malilib](https://www.curseforge.com/minecraft/mc-mods/malilib-forge)
+- [Sophisticated Core](https://www.curseforge.com/minecraft/mc-mods/sophisticated-core)
+- [supermartijn642corelib](https://www.curseforge.com/minecraft/mc-mods/supermartijn642s-core-lib)
+- [supermartijn642configlib](https://www.curseforge.com/minecraft/mc-mods/supermartijn642s-config-lib)
