@@ -98,3 +98,7 @@ Les mods de cette catégorie ne seront pas discutés, ils sont nécessaires pour
 - [Sophisticated Core](https://www.curseforge.com/minecraft/mc-mods/sophisticated-core)
 - [supermartijn642corelib](https://www.curseforge.com/minecraft/mc-mods/supermartijn642s-core-lib)
 - [supermartijn642configlib](https://www.curseforge.com/minecraft/mc-mods/supermartijn642s-config-lib)
+
+## A mettre a jour:
+- TorchMaster
+- Small Ships
